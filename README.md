@@ -1,2 +1,2 @@
-# Snake-game-with-turtle-graphics
-This is to illustrates the concept of oop programming for beginners.
+# Snake game with turtle graphics
+This is to illustrate the concept of **OOP** programming for beginners.
